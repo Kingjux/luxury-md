@@ -94,5 +94,5 @@ A simple WhatsApp User bot.
 ### Thanks To
 
 - [Venocyber](https://github.com/kingjux) for [Whatsbot](https://github.com/kingjux/luxury-md)
-- [@happiness](https://github.com/venocybertech) for [he.is.me](https://github.com/kingjux)
+- [@happiness](https://github.com/venocybertech) for [support](https://github.com/kingjux)
 
