@@ -1,6 +1,7 @@
 {
   "name": "luxury-md",
   "description": "Introducing luxury md by venocyber tech",
+  "logo": "https://telegra.ph/file/dc496c7502ad45c468984.jpg",
   "keywords": ["noedjs"],
   "success_url": "/",
   "env": {
